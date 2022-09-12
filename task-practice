@@ -1,0 +1,27 @@
+#include <stdio.h>
+
+int main(void)
+{
+
+  int ab;
+  int cd;
+
+  if(ab = 00; ab <= 98)
+    ab++;
+  {
+    putchar(ab);
+putchar(' ');
+  }
+  for (cd = ab + 1; cd <=99)
+    cd++;
+  {
+    putchar(cd);
+putchar(' ');
+
+}
+  if (ab !=98 && cd != 99)
+  {putchar(',');
+    }
+
+  return 0;
+}
